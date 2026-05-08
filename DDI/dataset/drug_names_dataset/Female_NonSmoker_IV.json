@@ -1,0 +1,134 @@
+{
+  "1043365_LCPatient": {
+    "466_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB11363"
+      ]
+    }
+  },
+  "1103334_LCPatient": {
+    "376_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB08865"
+      ]
+    }
+  },
+  "1133311_LCPatient": {
+    "268_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00515",
+        "DB00642",
+        "DB00904",
+        "DB01050"
+      ]
+    }
+  },
+  "1133501_LCPatient": {
+    "71_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00338",
+        "DB00642",
+        "DB00695",
+        "DB00958"
+      ]
+    }
+  },
+  "170471_LCPatient": {
+    "297_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00338",
+        "DB00642"
+      ]
+    },
+    "465_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00338",
+        "DB08916"
+      ]
+    }
+  },
+  "2378188_LCPatient": {
+    "102_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00186",
+        "DB00316",
+        "DB00338",
+        "DB00381",
+        "DB08916"
+      ]
+    },
+    "103_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00186",
+        "DB00316",
+        "DB00338",
+        "DB00381",
+        "DB00530"
+      ]
+    }
+  },
+  "2782768_LCPatient": {
+    "333_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB01076",
+        "DB01229"
+      ]
+    }
+  },
+  "586957_LCPatient": {
+    "455_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB01248",
+        "DB09079"
+      ]
+    }
+  },
+  "685807_LCPatient": {
+    "313_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00530",
+        "DB00642"
+      ]
+    }
+  },
+  "742684_LCPatient": {
+    "317_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00317",
+        "DB09074"
+      ]
+    }
+  },
+  "87919_LCPatient": {
+    "114_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB01229"
+      ]
+    }
+  },
+  "890921_LCPatient": {
+    "465_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00338",
+        "DB08916"
+      ]
+    }
+  }
+}

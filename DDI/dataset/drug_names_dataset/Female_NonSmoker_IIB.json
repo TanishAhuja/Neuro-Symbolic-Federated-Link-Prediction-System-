@@ -1,0 +1,11 @@
+{
+  "1884437_LCPatient": {
+    "465_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00338",
+        "DB08916"
+      ]
+    }
+  }
+}

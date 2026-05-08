@@ -1,0 +1,1153 @@
+[
+  {
+    "2478715_LCPatient": {
+      "306_Treatment": [
+        {
+          "Complete_therapeutic_response": [
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00642",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00642_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00642_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00642_metabolism"
+            }
+          ]
+        }
+      ]
+    },
+    "264735_LCPatient": {
+      "304_Treatment": [
+        {
+          "Partial_therapeutic_response": [
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB01229_interactsWith_Literature_DB00958",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB01229_interactsWith_Literature_DB00958",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB01229_interactsWith_Literature_DB00958",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB01229_interactsWith_Literature_DB00958",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB01229_interactsWith_Literature_DB00958",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB01229_interactsWith_Literature_DB00958",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00958_interactsWith_Literature_DB01229",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00958_interactsWith_Literature_DB01229",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00958_interactsWith_Literature_DB01229",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00958_interactsWith_Literature_DB01229",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00958_interactsWith_Literature_DB01229",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00958_interactsWith_Literature_DB01229",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00958_interactsWith_Literature_DB01229",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB01229_interactsWith_Literature_DB00958",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB01229_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB01229_metabolism"
+            }
+          ]
+        }
+      ],
+      "305_Treatment": [
+        {
+          "Complete_therapeutic_response": [
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00515_interactsWith_DrugBank_DB00338_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB00361_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00515_interactsWith_DeductiveSystem_DB00338_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB00361_metabolism"
+            }
+          ]
+        }
+      ],
+      "466_Treatment": [
+        {
+          "Partial_therapeutic_response": [
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB11363_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB11363_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB11363_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB11363_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB11363_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB11363_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB11363",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB11363",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB11363",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB11363",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB11363",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB11363",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB11363",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB11363_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB11363_metabolism",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB11363_metabolism"
+            }
+          ]
+        }
+      ]
+    },
+    "288498_LCPatient": {
+      "370_Treatment": [
+        {
+          "Complete_therapeutic_response": [
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00335",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00335",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00335",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00335_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00335_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00335_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Atenolol",
+              "DDI_Literature": "DB00335_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Atenolol",
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00335",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Atenolol",
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "2-(4-(2-HYDROXY-3-(ISOPROPYLAMINO)PROPOXY)PHENYL)ETHANAMIDE",
+              "DDI_Literature": "DB00335_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "2-(4-(2-HYDROXY-3-(ISOPROPYLAMINO)PROPOXY)PHENYL)ETHANAMIDE",
+              "DDI_Literature": "DB00361_interactsWith_Literature_DB00335",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "2-(4-(2-HYDROXY-3-(ISOPROPYLAMINO)PROPOXY)PHENYL)ETHANAMIDE",
+              "DDI_Literature": "DB00515_interactsWith_Literature_DB00361",
+              "DDI_DeductiveSystem": "DB00361_interactsWith_DeductiveSystem_DB00335_metabolism",
+              "DDI_DrugBank": "DB00361_interactsWith_DrugBank_DB00335_metabolism"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

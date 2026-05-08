@@ -1,0 +1,292 @@
+[
+  {
+    "1884437_LCPatient": {
+      "465_Treatment": [
+        {
+          "Stable_Disease": [
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": null,
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_excretion",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB00338_interactsWith_Literature_DB08916",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_serum_concentration"
+            },
+            {
+              "OncologicalDrugs": null,
+              "NonOncologicalDrugs": "Omeprazole",
+              "DDI_Literature": "DB08916_interactsWith_Literature_DB00338",
+              "DDI_DeductiveSystem": "DB00338_interactsWith_DeductiveSystem_DB08916_serum_concentration",
+              "DDI_DrugBank": "DB00338_interactsWith_DrugBank_DB08916_excretion"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

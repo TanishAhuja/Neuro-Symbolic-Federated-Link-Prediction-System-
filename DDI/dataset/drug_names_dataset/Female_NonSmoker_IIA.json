@@ -1,0 +1,45 @@
+{
+  "2478715_LCPatient": {
+    "306_Treatment": {
+      "status": "Complete_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB00515",
+        "DB00642"
+      ]
+    }
+  },
+  "264735_LCPatient": {
+    "304_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB01229"
+      ]
+    },
+    "305_Treatment": {
+      "status": "Complete_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB00361",
+        "DB00515"
+      ]
+    },
+    "466_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB11363"
+      ]
+    }
+  },
+  "288498_LCPatient": {
+    "370_Treatment": {
+      "status": "Complete_therapeutic_response",
+      "unique_drugs": [
+        "DB00335",
+        "DB00361"
+      ]
+    }
+  }
+}

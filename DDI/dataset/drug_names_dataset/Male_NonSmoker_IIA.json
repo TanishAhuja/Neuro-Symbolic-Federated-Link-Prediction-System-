@@ -1,0 +1,11 @@
+{
+  "191878_LCPatient": {
+    "304_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB01229"
+      ]
+    }
+  }
+}

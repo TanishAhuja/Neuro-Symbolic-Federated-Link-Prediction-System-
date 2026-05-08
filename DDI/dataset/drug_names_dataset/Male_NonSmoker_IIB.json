@@ -1,0 +1,12 @@
+{
+  "800428_LCPatient": {
+    "200_Treatment": {
+      "status": "Complete_therapeutic_response",
+      "unique_drugs": [
+        "DB00335",
+        "DB01076",
+        "DB01229"
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "1042774_LCPatient": {
+    "332_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00863",
+        "DB00958"
+      ]
+    }
+  },
+  "21514_LCPatient": {
+    "332_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00863",
+        "DB00958"
+      ]
+    }
+  },
+  "47430_LCPatient": {
+    "297_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00338",
+        "DB00642"
+      ]
+    },
+    "465_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB08916"
+      ]
+    }
+  }
+}

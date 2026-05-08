@@ -1,0 +1,186 @@
+{
+  "55a605f3a47e": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "I"
+    },
+    "file": "ddi_filtered_dataset/55a605f3a47e.json"
+  },
+  "a98c70b2dffa": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IIA"
+    },
+    "file": "ddi_filtered_dataset/a98c70b2dffa.json"
+  },
+  "b93f25cf634d": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IIB"
+    },
+    "file": "ddi_filtered_dataset/b93f25cf634d.json"
+  },
+  "f0b73a16df5c": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IIIA"
+    },
+    "file": "ddi_filtered_dataset/f0b73a16df5c.json"
+  },
+  "7f07e03e433d": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IIIB"
+    },
+    "file": "ddi_filtered_dataset/7f07e03e433d.json"
+  },
+  "6e17db924ceb": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IV"
+    },
+    "file": "ddi_filtered_dataset/6e17db924ceb.json"
+  },
+  "80719875e566": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "I"
+    },
+    "file": "ddi_filtered_dataset/80719875e566.json"
+  },
+  "0d4c82d371cf": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IIA"
+    },
+    "file": "ddi_filtered_dataset/0d4c82d371cf.json"
+  },
+  "e093eed9f733": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IIB"
+    },
+    "file": "ddi_filtered_dataset/e093eed9f733.json"
+  },
+  "8e2c1d1c4a69": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IIIA"
+    },
+    "file": "ddi_filtered_dataset/8e2c1d1c4a69.json"
+  },
+  "fa8f1f779968": {
+    "input": {
+      "Gender": "Male",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IV"
+    },
+    "file": "ddi_filtered_dataset/fa8f1f779968.json"
+  },
+  "2eb53b95ff7e": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "I"
+    },
+    "file": "ddi_filtered_dataset/2eb53b95ff7e.json"
+  },
+  "651e65f4cb3c": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IIA"
+    },
+    "file": "ddi_filtered_dataset/651e65f4cb3c.json"
+  },
+  "1e7e8d872d50": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IIB"
+    },
+    "file": "ddi_filtered_dataset/1e7e8d872d50.json"
+  },
+  "4b3f08f04948": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IIIA"
+    },
+    "file": "ddi_filtered_dataset/4b3f08f04948.json"
+  },
+  "829139d834a9": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IIIB"
+    },
+    "file": "ddi_filtered_dataset/829139d834a9.json"
+  },
+  "2083f3f35b54": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "CurrentSmoker",
+      "Cancer Stage": "IV"
+    },
+    "file": "ddi_filtered_dataset/2083f3f35b54.json"
+  },
+  "a59d40eab504": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "I"
+    },
+    "file": "ddi_filtered_dataset/a59d40eab504.json"
+  },
+  "86481ae45554": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IIA"
+    },
+    "file": "ddi_filtered_dataset/86481ae45554.json"
+  },
+  "674754df013c": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IIB"
+    },
+    "file": "ddi_filtered_dataset/674754df013c.json"
+  },
+  "71fa87767810": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IIIA"
+    },
+    "file": "ddi_filtered_dataset/71fa87767810.json"
+  },
+  "9ebaaac148c5": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IIIB"
+    },
+    "file": "ddi_filtered_dataset/9ebaaac148c5.json"
+  },
+  "64d43c597d4a": {
+    "input": {
+      "Gender": "Female",
+      "Smoking Habit": "NonSmoker",
+      "Cancer Stage": "IV"
+    },
+    "file": "ddi_filtered_dataset/64d43c597d4a.json"
+  }
+}

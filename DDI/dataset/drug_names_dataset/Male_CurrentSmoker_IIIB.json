@@ -1,0 +1,120 @@
+{
+  "1165931_LCPatient": {
+    "311_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00331",
+        "DB00958"
+      ]
+    }
+  },
+  "156018_LCPatient": {
+    "304_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00338",
+        "DB01229"
+      ]
+    },
+    "305_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00338",
+        "DB00361",
+        "DB00515"
+      ]
+    }
+  },
+  "157654_LCPatient": {
+    "423_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00193",
+        "DB00361",
+        "DB00515"
+      ]
+    },
+    "425_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00193",
+        "DB00642",
+        "DB00958"
+      ]
+    }
+  },
+  "2660917_LCPatient": {
+    "304_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB01229"
+      ]
+    }
+  },
+  "43106_LCPatient": {
+    "281_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00515",
+        "DB01137",
+        "DB01212"
+      ]
+    }
+  },
+  "649148_LCPatient": {
+    "306_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00338",
+        "DB00515",
+        "DB00642"
+      ]
+    }
+  },
+  "736976_LCPatient": {
+    "184_Treatment": {
+      "status": "Stable_Disease",
+      "unique_drugs": [
+        "DB00641",
+        "DB01229"
+      ]
+    },
+    "541_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00361",
+        "DB00641"
+      ]
+    }
+  },
+  "745216_LCPatient": {
+    "306_Treatment": {
+      "status": "Disease_Progression",
+      "unique_drugs": [
+        "DB00338",
+        "DB00515",
+        "DB00642"
+      ]
+    }
+  },
+  "754920_LCPatient": {
+    "304_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB01229"
+      ]
+    }
+  },
+  "790581_LCPatient": {
+    "206_Treatment": {
+      "status": "Partial_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB01076",
+        "DB01229"
+      ]
+    }
+  }
+}

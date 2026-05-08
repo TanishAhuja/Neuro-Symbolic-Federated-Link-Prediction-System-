@@ -1,0 +1,21 @@
+{
+  "2478715_LCPatient": {
+    "306_Treatment": {
+      "status": "Complete_therapeutic_response",
+      "unique_drugs": [
+        "DB00338",
+        "DB00515",
+        "DB00642"
+      ]
+    }
+  },
+  "288498_LCPatient": {
+    "370_Treatment": {
+      "status": "Complete_therapeutic_response",
+      "unique_drugs": [
+        "DB00335",
+        "DB00361"
+      ]
+    }
+  }
+}
